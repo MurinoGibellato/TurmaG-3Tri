@@ -1,13 +1,16 @@
 body{
     background-color:rgb(187, 187, 231);
 }
-h1{
-    font-size: 30px;
+
+#titulo {
+   font-size: 50px;
     text-align: center;
     color:blue 
 }
-p{
-    font-size: 20px;
+
+.texto {
+
+   font-size: 35px;
     text-align: justify;
     color:red;
 }
