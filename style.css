@@ -2,17 +2,17 @@ body{
     background-color:rgb(187, 187, 231);
 }
 
-#titulo {
-   font-size: 30px;
-    text-align: center
-    color:blue 
-}
 #titulo1 {
+   font-size: 30px;
+    text-align: center;
+    color:blue ;
+}
+#titulo2 {
     font-size: 20px;
      text-align: justify;
      color:rgb(22, 160, 219) 
  }
- #titulo2 {
+ #titulo3 {
     font-size: 20px;
      text-align: justify;
      color:rgb(18, 1, 2) 
