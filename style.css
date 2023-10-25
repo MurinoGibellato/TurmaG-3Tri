@@ -4,9 +4,19 @@ body{
 
 #titulo {
    font-size: 20px;
-    text-align: center;
+    text-align: center
     color:blue 
 }
+#titulo1 {
+    font-size: 20px;
+     text-align: justify;
+     color:rgb(219, 22, 22) 
+ }
+ #titulo2 {
+    font-size: 20px;
+     text-align: justify;
+     color:blue 
+ }
 
 .texto {
 
