@@ -3,14 +3,14 @@ body{
 }
 
 #titulo {
-   font-size: 25px;
+   font-size: 20px;
     text-align: center;
     color:blue 
 }
 
 .texto {
 
-   font-size: 35px;
+   font-size: 25px;
     text-align: justify;
     color:red;
 }
