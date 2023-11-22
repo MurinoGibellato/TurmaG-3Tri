@@ -49,7 +49,7 @@ body{
     color: #ec6111;
 }
   .lista1{
-list-style-position: inside;
+list-style-position:inside;
     }
     .lista2{
         list-style: none;
