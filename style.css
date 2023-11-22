@@ -41,6 +41,18 @@ body{
     border: 0.5rem solid #BF9075;
     border-radius: 24px;  
 }
+.listas {
+background-color: #dcec1d;
+text-align: center;
+font-size: 25px;
+color: #a67c63;
+.lista1{
+    list-style-position: inside;
+    }
+    .lista2{
+        list-style: nome;
+    }
+
 
 
 
