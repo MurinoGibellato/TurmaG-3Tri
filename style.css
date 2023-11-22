@@ -13,16 +13,16 @@ body{
      color:rgb(236, 37, 11);
  }
  #titulo3 {
-    font-size: 30px;
-     text-align: justify;
-     color:rgb(24, 5, 5);
+      font-size: 30px;
+       text-align: justify;
+        color:rgb(24, 5, 5);
  }
 .
 .texto {
 
-   font-size: 25px;
-    text-align: justify;
-    color:rgb(5, 127, 11);
+ font-size: 25px;
+ text-align: justify;
+ color:rgb(5, 127, 11);
 }
 #foto{
     height: 300px;
@@ -42,14 +42,14 @@ body{
     border-radius: 24px;  
 }
 
-.listas {
+  .listas {
     background-color: #ec1d1d;
     text-align: center;
     font-size: 25px;
     color: #ec6111;
 }
-  .lista1{
-list-style-position:inside;
+   .lista1{
+   list-style-position:inside;
     }
     .lista2{
         list-style: none;
