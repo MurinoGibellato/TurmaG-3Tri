@@ -43,15 +43,18 @@ body{
 }
 
   .listas {
-    background-color: #ec1d1d;
+    background-color: #D9CEC1;
     text-align: center;
     font-size: 45px;
-    color: #f0ec0c;
+    color: #A67C63;
 }
-   .lista1{
-   list-style-position:inside;
+ 
+  .lista1 {
+      list-style-position:inside;
+
     }
-    .lista2{
+
+    .lista2 {
         list-style: none;
     }
 
