@@ -1,7 +1,13 @@
 body{
     background-color:rgb(187, 187, 231);
 }
-
+header {
+    padding: 20px;
+    background: color #bf9075;
+    border-bottom: 5px solid#30348C;
+    font: size 35px;
+    color:#1822ef;
+}
 #titulo1 {
    font-size: 50px;
     text-align: center;
